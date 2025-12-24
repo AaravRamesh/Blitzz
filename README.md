@@ -33,97 +33,7 @@
 | 29 |  [Building API](./29_Day_Building_API/29_building_API.md)|
 | 30 |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)|
 
-<small>🧡🧡🧡 HAPPY CODING 🧡🧡🧡</small>
-
----
-<div>
-<h2>💖 Sponsors</h2>
-
-<p>Our amazing sponsors for supporting my open-source contribution and the <strong>30 Days of Challenge</strong> series!</p>
-
-<h3>Current Sponsors</h3>
-<hr />
-<div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
-      <!-- Light mode (fallback) -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      Talk to code, stay in the Flow.
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      Flow is built for devs who live in their tools. Speak and give more context, get better results.
-    </a>
-  </h2>
-</div>
-<hr />
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
-      <!-- Light mode (fallback) -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-black.png"
-           width="400px"
-           alt="Petrosky Logo"
-           title="Petrosky" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      A hosting for your entire journey!
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      Affordable VPS Hosting Services For All Your  Needs
-    </a>
-  </h2>
-</div>
-
----
-
-### 🙌 Become a Sponsor
-
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through [PayPal](https://www.paypal.me/asabeneh).
-
-Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
-
----
-
-<div align="center">
-  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
-  </sub>
-</div>
-
-🇧🇷 [Portuguese](./Portuguese/README.md)
-🇨🇳 [中文](./Chinese/README.md)
-
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+<small> ENJOY CODING </small>
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
@@ -304,4 +214,4 @@ After a long day of coding, you want to close your code editor, right? This is h
 
 ![Closing project](./images/closing_opened_project.png)
 
-Congratulations, you have finished setting up the development environment. Let us start coding.
+Congratulations, you have finished setting up the development environment. Meet you on day 2.
